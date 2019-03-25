@@ -17,4 +17,4 @@ Everyone should bring the following to class:
 3. In the CSS, follow the instructions as a class to complete Tonks' portfolio.
 
 ### Project: Practice on Your Own
-Go to the personal-portfolio homework repo to start your own portfolio site!
+Go to the [personal-portfolio homework repo](https://github.com/Coderbabez/2019-spring-04h-personal-portfolio) to start your own portfolio site!
