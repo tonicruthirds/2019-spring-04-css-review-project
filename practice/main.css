@@ -1,3 +1,5 @@
+
+
 header {
   background-image: url("./img/timp-beautiful-crop.jpg");
   background-size: cover;
@@ -5,12 +7,14 @@ header {
   color: white;
   padding: 10px;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-around;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 body {
   font-family: sans-serif;
+  background-color: #FCF5F4;
 }
 
 ul {
@@ -50,14 +54,12 @@ about {
 
 }
 
+p1 {
+  font-size: 20px;
+
+
+}
+
 
 /*
 /*/
-
-/*
-5. Make the image in the About me section sit to the right of the h2 and paragraph tag (you may need to update the HTML)
-*/
-
-/*
-6. Make the two sections in the Experience box sit next to each other in columns.
-*/
