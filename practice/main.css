@@ -29,7 +29,12 @@ ul li {
 }
 
 .experience img {
+border-radius: 10%;
 margin: 10px
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;
 
 }
 
@@ -56,7 +61,18 @@ about {
 
 p1 {
   font-size: 20px;
+  font-family: Helvetica;
+  display: flex;
+  flex-wrap: wrap;
 
+
+}
+
+contact {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
 
 }
 
